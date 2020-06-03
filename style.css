@@ -4,6 +4,10 @@
 *{
     margin: 5px 6px 5px 0px;
     padding: 5px;
+    
+}
+body{
+    background-color: #dbd9d5;
 }
 .container{
     width: 100%;
@@ -15,6 +19,8 @@
     border: 2px solid black;
     line-height: 25px;
     font-weight: bold;
+    background-color: white;
+    
 }
 h3{
     text-align: center;
@@ -36,10 +42,12 @@ a{
 }
 #running{
     color: mediumseagreen;
+    
 }
 #ongoing{
     color: red;
     text-shadow: black 1px solid;
+    
 }
 
 
